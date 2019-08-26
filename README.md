@@ -1,6 +1,7 @@
 # dreamgo
 
 [![Build Status](https://travis-ci.org/go-chinese-site/dreamgo.svg?branch=master)](https://travis-ci.org/go-chinese-site/dreamgo)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftk103331%2Fdreamgo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftk103331%2Fdreamgo?ref=badge_shield)
 
 一个新手学习用的博客系统，用 Go 语言实现自己的梦想。
 
@@ -73,3 +74,7 @@
 2. 通过一次 pull request 后，会把你加入该项目的协作者中，之后就可以直接在该项目中写代码、push 了。
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftk103331%2Fdreamgo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftk103331%2Fdreamgo?ref=badge_large)
