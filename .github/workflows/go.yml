@@ -18,7 +18,7 @@ jobs:
       
     - name: env
       run: |
-        mkdir -r /opt/gopath
+        mkdir -p /opt/gopath
         export GOPATH=/opt/gopath
         export PATH=$PATH:$GOPATH/bin
       
