@@ -26,6 +26,7 @@ jobs:
       run: |
         go get github.com/polaris1119/gvt
         go install github.com/polaris1119/gvt
+        ls /opt/gopath
 
     - name: Get dependencies
       run: sh getpkg.sh
