@@ -1,4 +1,4 @@
-FROM golang
+FROM golang:1.22.4
 
 RUN go get github.com/polaris1119/gvt
 RUN ln -sf /go/bin/gvt /usr/local/bin/
