@@ -1,4 +1,4 @@
-FROM golang
+FROM golang:1.22.5
 
 RUN mkdir /dreamgo
 RUN mkdir /dreamgo/log
